@@ -62,6 +62,10 @@
 				"selected_items":
 				[
 					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
 						"list",
 						"Package Control: List Packages"
 					],
@@ -103,10 +107,6 @@
 					],
 					[
 						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
 						"Package Control: Install Package"
 					]
 				],
@@ -290,10 +290,7 @@
 					{
 						"buffer_size": 37,
 						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-					]
+					}
 				}
 			],
 			"build_system": "",
@@ -307,6 +304,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"list",
 						"Package Control: List Packages"
@@ -349,10 +350,6 @@
 					],
 					[
 						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
 						"Package Control: Install Package"
 					]
 				],
@@ -477,15 +474,15 @@
 											"selector": "punctuation.accessor"
 										},
 										{
-											"characters": "\"'` .([]!/-:",
-											"registration_id": "f50a7a31-147c-4117-b725-55ec1d3b1842",
-											"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
-											"server": "LSP-tailwindcss"
-										},
-										{
 											"characters": ".\"'/@<",
 											"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
 											"server": "LSP-typescript"
+										},
+										{
+											"characters": "\"'` .([]!/-:",
+											"registration_id": "e06bf172-9236-4228-aa1f-66ae3686b9f6",
+											"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+											"server": "LSP-tailwindcss"
 										}
 									],
 									"lsp_active": true,

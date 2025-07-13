@@ -17,9 +17,4 @@ Traceback (most recent call last):
     for phantom, region in zip(self.phantoms, regions):
 TypeError: 'NoneType' object is not iterable
 LSP: LSP-typescript crashed (1 / 5 times in the last 180.0 seconds), exit code -9, exception: None
-Exception ignored in: <function WindowProgressReporter.__del__ at 0x7830db77d040>
-Traceback (most recent call last):
-  File "/home/nabeel/.config/sublime-text/Installed Packages/LSP.sublime-package/plugin/core/progress.py", line 59, in __del__
-  File "/opt/sublime_text/Lib/python38/sublime.py", line 1585, in views
-    return [View(x) for x in view_ids]
-TypeError: 'NoneType' object is not iterable
+LSP: LSP-tailwindcss crashed (1 / 5 times in the last 180.0 seconds), exit code -9, exception: None

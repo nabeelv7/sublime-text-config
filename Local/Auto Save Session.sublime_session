@@ -1,9 +1,14 @@
 {
 	"file_history":
 	[
+		"/home/nabeel/.config/sublime-text/Packages/LSP/LSP.sublime-settings",
+		"/home/nabeel/.config/sublime-text/Packages/User/LSP.sublime-settings",
+		"/home/nabeel/dev/svelte/todo-list/src/app.d.ts",
+		"/home/nabeel/dev/svelte/todo-list/auth.ts",
+		"/home/nabeel/dev/svelte/todo-list/src/routes/+layout.server.ts",
+		"/home/nabeel/dev/svelte/todo-list/auth.js",
 		"/home/nabeel/.config/sublime-text/Packages/LSP-typescript/LSP-typescript.sublime-settings",
 		"/home/nabeel/.config/sublime-text/Packages/User/LSP-typescript.sublime-settings",
-		"/home/nabeel/dev/svelte/todo-list/src/routes/+layout.server.ts",
 		"/home/nabeel/dev/svelte/todo-list/.env",
 		"/home/nabeel/dev/svelte/todo-list/src/routes/hooks.server.js",
 		"/home/nabeel/dev/svelte/todo-list/src/routes/+layout.server.js",
@@ -30,7 +35,7 @@
 		"/home/nabeel/dev/daisy.v4"
 	],
 	"last_version": 4200,
-	"last_window_id": 18,
+	"last_window_id": 20,
 	"log_indexing": false,
 	"next_update_check": 1752505273,
 	"settings":
@@ -61,6 +66,18 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"prefe",
+						"Preferences: LSP Settings"
+					],
+					[
+						"ormat",
+						"LSP: Format File"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"list",
 						"Package Control: List Packages"
@@ -104,10 +121,6 @@
 					[
 						"instal",
 						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					]
 				],
 				"width": 0.0
@@ -134,7 +147,13 @@
 			},
 			"file_history":
 			[
+				"/home/nabeel/.config/sublime-text/Packages/User/LSP.sublime-settings",
+				"/home/nabeel/.config/sublime-text/Packages/LSP/LSP.sublime-settings",
+				"/home/nabeel/dev/svelte/todo-list/src/app.d.ts",
+				"/home/nabeel/dev/svelte/todo-list/src/hooks.server.ts",
+				"/home/nabeel/dev/svelte/todo-list/auth.ts",
 				"/home/nabeel/dev/svelte/todo-list/src/routes/+layout.server.ts",
+				"/home/nabeel/dev/svelte/todo-list/auth.js",
 				"/home/nabeel/.config/sublime-text/Packages/User/LSP-typescript.sublime-settings",
 				"/home/nabeel/.config/sublime-text/Packages/LSP-typescript/LSP-typescript.sublime-settings",
 				"/home/nabeel/dev/svelte/todo-list/.env",
@@ -167,6 +186,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"format_on_save"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -264,7 +284,7 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 217.0,
 			"status_bar_visible": true,
 			"template_settings":
@@ -285,12 +305,94 @@
 			"buffers":
 			[
 				{
-					"file": "/home/nabeel/dev/svelte/todo-list/src/routes/+layout.server.ts",
+					"file": "/home/nabeel/dev/svelte/todo-list/src/hooks.server.ts",
 					"settings":
 					{
-						"buffer_size": 37,
+						"buffer_size": 31,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
-					}
+					},
+					"undo_stack":
+					[
+						[
+							2,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAAHwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/nabeel/dev/svelte/todo-list/src/app.d.ts",
+					"settings":
+					{
+						"buffer_size": 326,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAALMAAAAAAAAAtAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"left_delete",
+							null,
+							"AQAAALMAAAAAAAAAswAAAAAAAAABAAAACQ",
+							"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAALMAAAAAAAAAtAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"lsp_apply_document_edit",
+							{
+								"changes":
+								[
+									{
+										"newText": "\t\t",
+										"range":
+										{
+											"end":
+											{
+												"character": 3,
+												"line": 7
+											},
+											"start":
+											{
+												"character": 0,
+												"line": 7
+											}
+										}
+									}
+								],
+								"process_placeholders": false,
+								"required_view_version": null
+							},
+							"AQAAALEAAAAAAAAAswAAAAAAAAADAAAACQkJ",
+							"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+						]
+					]
 				}
 			],
 			"build_system": "",
@@ -304,6 +406,18 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"prefe",
+						"Preferences: LSP Settings"
+					],
+					[
+						"ormat",
+						"LSP: Format File"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"list",
 						"Package Control: List Packages"
@@ -347,10 +461,6 @@
 					[
 						"instal",
 						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					]
 				],
 				"width": 0.0
@@ -383,7 +493,10 @@
 			],
 			"file_history":
 			[
+				"/home/nabeel/dev/svelte/todo-list/src/app.d.ts",
+				"/home/nabeel/dev/svelte/todo-list/auth.ts",
 				"/home/nabeel/dev/svelte/todo-list/src/routes/+layout.server.ts",
+				"/home/nabeel/dev/svelte/todo-list/auth.js",
 				"/home/nabeel/.config/sublime-text/Packages/User/LSP-typescript.sublime-settings",
 				"/home/nabeel/.config/sublime-text/Packages/LSP-typescript/LSP-typescript.sublime-settings",
 				"/home/nabeel/dev/svelte/todo-list/.env",
@@ -445,20 +558,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/nabeel/dev/svelte/todo-list/src/routes/+layout.server.ts",
-							"selected": true,
-							"semi_transient": true,
+							"file": "/home/nabeel/dev/svelte/todo-list/src/hooks.server.ts",
+							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 37,
+								"buffer_size": 31,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										37,
-										37
+										31,
+										31
 									]
 								],
 								"settings":
@@ -480,15 +592,81 @@
 										},
 										{
 											"characters": "\"'` .([]!/-:",
-											"registration_id": "e06bf172-9236-4228-aa1f-66ae3686b9f6",
+											"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+											"server": "LSP-tailwindcss"
+										},
+										{
+											"characters": "\"'` .([]!/-:",
+											"registration_id": "e6327ccc-dd41-4546-8d10-3f6325d8bf03",
+											"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+											"server": "LSP-tailwindcss"
+										},
+										{
+											"characters": "\"'` .([]!/-:",
+											"registration_id": "823cc7b4-a4f7-4654-b886-b50fc9b19629",
 											"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
 											"server": "LSP-tailwindcss"
 										}
 									],
 									"lsp_active": true,
-									"lsp_uri": "file:///home/nabeel/dev/svelte/todo-list/src/routes/%2Blayout.server.ts",
+									"lsp_uri": "file:///home/nabeel/dev/svelte/todo-list/src/hooks.server.ts",
 									"show_definitions": false,
 									"syntax": "Packages/JavaScript/TypeScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/nabeel/dev/svelte/todo-list/src/app.d.ts",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 326,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										179,
+										179
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html, text.xml"
+										},
+										{
+											"rhs_empty": true,
+											"selector": "punctuation.accessor"
+										},
+										{
+											"characters": ".\"'/@<",
+											"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+											"server": "LSP-typescript"
+										},
+										{
+											"characters": "\"'` .([]!/-:",
+											"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+											"server": "LSP-tailwindcss"
+										}
+									],
+									"lsp_active": true,
+									"lsp_uri": "file:///home/nabeel/dev/svelte/todo-list/src/app.d.ts",
+									"show_definitions": false,
+									"syntax": "Packages/JavaScript/TypeScript.sublime-syntax",
+									"tab_size": 4
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
