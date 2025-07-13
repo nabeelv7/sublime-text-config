@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"LSP",
 		"LSP-svelte",
 		"LSP-tailwindcss",
 		"LSP-typescript",
