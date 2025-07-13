@@ -13,7 +13,7 @@
 		"Vintage",
 	],
 	"index_files": true,
-	"folder_exclude_patterns": ["node_modules", ".svelte-kit"],
+	"folder_exclude_patterns": ["node_modules", ".svelte-kit", ".git"],
 	"word_wrap": true,
 	"save_on_focus_lost": true,
 	"color_scheme": "Packages/Poimandres Color Scheme/pmndrs.tmTheme",
