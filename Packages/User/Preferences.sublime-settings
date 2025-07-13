@@ -3,6 +3,11 @@
 {
 	"font_size": 16,
 	"font_face": "Geist Mono",
+	"line_padding_top": 7,
+	"caret_style": "smooth",
+	"highlight_line": true,
+	
+	"line_padding_bottom": 7,
 	"ignored_packages":
 	[
 		"Vintage",
@@ -11,6 +16,6 @@
 	"folder_exclude_patterns": ["node_modules", ".svelte-kit"],
 	"word_wrap": true,
 	"save_on_focus_lost": true,
-	"theme": "auto",
-	"color_scheme": "Mariana.sublime-color-scheme",
+	"color_scheme": "Packages/Poimandres Color Scheme/pmndrs.tmTheme",
+	"theme": "Adaptive.sublime-theme",
 }

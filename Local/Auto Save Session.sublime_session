@@ -1,13 +1,13 @@
 {
 	"file_history":
 	[
+		"/home/nabeel/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/nabeel/.config/sublime-text/Packages/User/Preferences.sublime-settings",
 		"/home/nabeel/.config/sublime-text/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
 		"/home/nabeel/.config/sublime-text/Packages/User/Mariana.sublime-color-scheme",
 		"/home/nabeel/dev/daisy.v4/src/app.html",
 		"/home/nabeel/.config/sublime-text/Packages/LSP-tailwindcss/LSP-tailwindcss.sublime-settings",
 		"/home/nabeel/.config/sublime-text/Packages/User/LSP-tailwindcss.sublime-settings",
-		"/home/nabeel/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
-		"/home/nabeel/.config/sublime-text/Packages/User/Preferences.sublime-settings",
 		"/home/nabeel/dev/daisy.v4/node_modules/caniuse-lite/data/features/html-media-capture.js",
 		"/home/nabeel/dev/daisy.v4/src/routes/+layout.svelte",
 		"/home/nabeel/dev/daisy.v4/src/app.css",
@@ -18,7 +18,7 @@
 		"/home/nabeel/dev/daisy.v4"
 	],
 	"last_version": 4200,
-	"last_window_id": 7,
+	"last_window_id": 10,
 	"log_indexing": false,
 	"next_update_check": 1752505273,
 	"settings":
@@ -49,6 +49,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
 					[
 						"ui",
 						"UI: Customize Color Scheme"
@@ -114,8 +118,8 @@
 			},
 			"file_history":
 			[
-				"/home/nabeel/.config/sublime-text/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
-				"/home/nabeel/.config/sublime-text/Packages/User/Mariana.sublime-color-scheme",
+				"/home/nabeel/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/nabeel/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
 				"/home/nabeel/dev/daisy.v4/src/routes/+page.server.js",
 				"/home/nabeel/dev/daisy.v4/src/routes/+page.svelte",
 				"/home/nabeel/dev/daisy.v4/src/app.html",
@@ -126,7 +130,7 @@
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 58.0
 			},
 			"find_in_files":
 			{
@@ -158,11 +162,11 @@
 			},
 			"incremental_find":
 			{
-				"height": 38.0
+				"height": 58.0
 			},
 			"input":
 			{
-				"height": 50.0
+				"height": 58.0
 			},
 			"menu_visible": true,
 			"output.find_results":
@@ -175,7 +179,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 72.0
+				"height": 112.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1989,6 +1993,42 @@
 							},
 							"DgAAAMkAAAAAAAAAygAAAAAAAAAAAAAAygAAAAAAAADLAAAAAAAAAAAAAADLAAAAAAAAAMwAAAAAAAAAAAAAAMwAAAAAAAAAzQAAAAAAAAAAAAAAzQAAAAAAAADOAAAAAAAAAAAAAADOAAAAAAAAAM8AAAAAAAAAAAAAAM8AAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADRAAAAAAAAAAAAAADRAAAAAAAAANIAAAAAAAAAAAAAANIAAAAAAAAA0wAAAAAAAAAAAAAA0wAAAAAAAADUAAAAAAAAAAAAAADUAAAAAAAAANUAAAAAAAAAAAAAANUAAAAAAAAA1gAAAAAAAAAAAAAA1gAAAAAAAADXAAAAAAAAAAAAAAA",
 							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADJAAAAAAAAAMkAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": "dakdka"
+							},
+							"BgAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							6,
+							"left_delete",
+							null,
+							"BgAAADIAAAAAAAAAMgAAAAAAAAABAAAAYTEAAAAAAAAAMQAAAAAAAAABAAAAazAAAAAAAAAAMAAAAAAAAAABAAAAZC8AAAAAAAAALwAAAAAAAAABAAAAay4AAAAAAAAALgAAAAAAAAABAAAAYS0AAAAAAAAALQAAAAAAAAABAAAAZA",
+							"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							2,
+							"left_delete",
+							null,
+							"AgAAAI8AAAAAAAAAjwAAAAAAAAABAAAACo4AAAAAAAAAjgAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAkAAAAAAAAACQAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAI4AAAAAAAAAkAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
@@ -3747,6 +3787,10 @@
 				"selected_items":
 				[
 					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
+					[
 						"ui",
 						"UI: Customize Color Scheme"
 					],
@@ -3825,7 +3869,7 @@
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 58.0
 			},
 			"find_in_files":
 			{
@@ -3873,6 +3917,7 @@
 						{
 							"buffer": 0,
 							"file": "/home/nabeel/dev/daisy.v4/src/routes/+page.svelte",
+							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
@@ -3883,8 +3928,8 @@
 								"selection":
 								[
 									[
-										306,
-										306
+										291,
+										291
 									]
 								],
 								"settings":
@@ -3897,14 +3942,13 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"stack_multiselect": false,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
 							"file": "/home/nabeel/dev/daisy.v4/src/routes/+page.server.js",
-							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
@@ -3926,10 +3970,10 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 35.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"stack_multiselect": false,
 							"type": "text"
 						}
@@ -3938,11 +3982,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 38.0
+				"height": 58.0
 			},
 			"input":
 			{
-				"height": 50.0
+				"height": 58.0
 			},
 			"layout":
 			{
@@ -3975,11 +4019,11 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,1920,1036,1920,1080,0",
+			"position": "1,1,0,0,0,0,0,1920,1080,1920,1080,0",
 			"project": "",
 			"replace":
 			{
-				"height": 72.0
+				"height": 112.0
 			},
 			"save_all_on_build": true,
 			"select_file":
