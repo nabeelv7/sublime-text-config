@@ -1,0 +1,16 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"font_size": 16,
+	"font_face": "Geist Mono",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+	"folder_exclude_patterns": ["node_modules", ".svelte-kit"],
+	"word_wrap": true,
+	"save_on_focus_lost": true,
+	"theme": "auto",
+	"color_scheme": "Mariana.sublime-color-scheme",
+}

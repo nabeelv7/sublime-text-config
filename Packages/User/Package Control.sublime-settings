@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"LSP-svelte",
+		"LSP-tailwindcss",
+		"LSP-typescript",
+		"Package Control",
+		"Svelte",
+	],
+}
