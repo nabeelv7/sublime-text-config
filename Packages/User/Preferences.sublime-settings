@@ -16,6 +16,6 @@
 	"folder_exclude_patterns": ["node_modules", ".svelte-kit", ".git"],
 	"word_wrap": true,
 	"save_on_focus_lost": true,
-	"color_scheme": "Packages/Poimandres Color Scheme/pmndrs.tmTheme",
-	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "GitHub Dark.sublime-color-scheme",
+	"theme": "Default Dark.sublime-theme",
 }

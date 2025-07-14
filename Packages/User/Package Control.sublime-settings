@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"FileIcons",
+		"GitHub Theme",
 		"LSP",
 		"LSP-svelte",
 		"LSP-tailwindcss",

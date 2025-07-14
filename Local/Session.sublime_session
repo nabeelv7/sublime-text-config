@@ -1,6 +1,8 @@
 {
 	"file_history":
 	[
+		"/home/nabeel/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/nabeel/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
 		"/home/nabeel/dev/svelte/todo-list/src/routes/+page.svelte",
 		"/home/nabeel/dev/svelte/todo-list/src/app.html",
 		"/home/nabeel/dev/svelte/todo-list/src/app.css",
@@ -39,7 +41,7 @@
 		"/home/nabeel/dev/daisy.v4"
 	],
 	"last_version": 4200,
-	"last_window_id": 21,
+	"last_window_id": 23,
 	"log_indexing": false,
 	"next_update_check": 1752505273,
 	"settings":
@@ -346,7 +348,7 @@
 								"characters": ","
 							},
 							"AQAAAJ0BAAAAAAAAngEAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAnQEAAAAAAACdAQAAAAAAAAAAAAAAAPC/"
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACdAQAAAAAAAJ0BAAAAAAAAAAAAAAAA8L8"
 						],
 						[
 							4,
@@ -356,7 +358,7 @@
 								"characters": " "
 							},
 							"AQAAAJ4BAAAAAAAAnwEAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAngEAAAAAAACeAQAAAAAAAAAAAAAAAPC/"
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACeAQAAAAAAAJ4BAAAAAAAAAAAAAAAA8L8"
 						],
 						[
 							5,
@@ -366,7 +368,7 @@
 								"contents": "\"$0\""
 							},
 							"AQAAAJ8BAAAAAAAAoQEAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAnwEAAAAAAACfAQAAAAAAAAAAAAAAAPC/"
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACfAQAAAAAAAJ8BAAAAAAAAAAAAAAAA8L8"
 						],
 						[
 							6,
@@ -376,7 +378,7 @@
 								"characters": "/git"
 							},
 							"BAAAAKABAAAAAAAAoQEAAAAAAAAAAAAAoQEAAAAAAACiAQAAAAAAAAAAAACiAQAAAAAAAKMBAAAAAAAAAAAAAKMBAAAAAAAApAEAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAoAEAAAAAAACgAQAAAAAAAAAAAAAAAPC/"
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACgAQAAAAAAAKABAAAAAAAAAAAAAAAA8L8"
 						],
 						[
 							8,
@@ -384,7 +386,7 @@
 							"left_delete",
 							null,
 							"AQAAAKABAAAAAAAAoAEAAAAAAAABAAAALw",
-							"AQAAAAAAAAABAAAAoQEAAAAAAAChAQAAAAAAAAAAAAAAAPC/"
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAChAQAAAAAAAKEBAAAAAAAAAAAAAAAA8L8"
 						],
 						[
 							9,
@@ -394,7 +396,7 @@
 								"characters": "."
 							},
 							"AQAAAKABAAAAAAAAoQEAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAoAEAAAAAAACgAQAAAAAAAAAAAAAAAPC/"
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACgAQAAAAAAAKABAAAAAAAAAAAAAAAA8L8"
 						]
 					]
 				}
@@ -576,7 +578,9 @@
 									"edit_settings_view": "base",
 									"lsp_uri": "res:/Packages/Default/Preferences.sublime-settings",
 									"mini_diff": false,
-									"syntax": "Packages/JSON/JSON.sublime-syntax"
+									"syntax": "Packages/JSON/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
