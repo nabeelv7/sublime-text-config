@@ -1,0 +1,11 @@
+// SublimeLinter Settings - User
+{
+	// "debug": true,
+	
+	"linters": {
+		"eslint": {
+			"executable": "/home/nabeel/Apps/node/bin/eslint"
+		}
+	},
+	"lint_mode": "background"
+}

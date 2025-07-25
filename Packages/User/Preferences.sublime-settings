@@ -1,0 +1,23 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"font_size": 16,
+	"line_padding_top": 8,
+	"line_padding_bottom": 8,
+	"theme": "Spaceblack.sublime-theme",
+	"save_on_focus_lost": true,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"tab_size": 2,
+	"index_files": true,
+	"caret_style": "phase",
+	"word_wrap": true,
+	"folder_exclude_patterns": [".git", "node_modules", ".next"],
+	"file_exclude_patterns": ["package-lock.json", "bun.lock"],
+	"color_scheme": "Dark+.sublime-color-scheme",
+	"bold_folder_labels": true,
+	"show_errors_inline": true,
+	"sidebar_on_right": true,
+}

@@ -1,0 +1,1846 @@
+{
+	"file_history":
+	[
+		"/home/nabeel/dev/qwik/todo/src/routes/index.tsx",
+		"/home/nabeel/.config/sublime-text/Packages/Theme - Spaceblack/Theme/Spaceblack.sublime-theme",
+		"/home/nabeel/.config/sublime-text/Packages/User/Spaceblack.sublime-theme",
+		"/home/nabeel/.config/sublime-text/Packages/Theme - Darkmatter/Darkmatter.sublime-theme",
+		"/home/nabeel/.config/sublime-text/Packages/User/Darkmatter.sublime-theme",
+		"/home/nabeel/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/nabeel/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/nabeel/.config/sublime-text/Packages/User/TSX.sublime-settings",
+		"/home/nabeel/dev/huh/eslint.config.js",
+		"/home/nabeel/dev/huh/index.js",
+		"/home/nabeel/.config/sublime-text/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/nabeel/.config/sublime-text/Packages/User/SublimeLinter.sublime-settings",
+		"/home/nabeel/dev/huh/index.html",
+		"/home/nabeel/dev/huh/.eslintrc.js",
+		"/home/nabeel/dev/qwik/city/src/routes/index.jsx",
+		"/home/nabeel/dev/qwik/city/src/global.css",
+		"/home/nabeel/dev/qwik/city/src/root.tsx",
+		"/home/nabeel/dev/qwik/city/package.json",
+		"/home/nabeel/dev/qwik/city/tsconfig.json",
+		"/home/nabeel/dev/qwik/test-app/src/app.css",
+		"/home/nabeel/dev/qwik/test-app/src/app.jsx",
+		"/home/nabeel/dev/qwik/test-app/index.html",
+		"/home/nabeel/dev/react/test/index.html",
+		"/home/nabeel/dev/react/test/src/App.jsx",
+		"/home/nabeel/dev/react/test/src/App.css",
+		"/home/nabeel/dev/react/test/src/main.jsx",
+		"/home/nabeel/dev/react/test/vite.config.js",
+		"/home/nabeel/dev/qwik/test-app/vite.config.js",
+		"/home/nabeel/dev/qwik/test-app/src/main.jsx",
+		"/home/nabeel/.config/sublime-text/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/home/nabeel/.config/sublime-text/Packages/User/JsPrettier.sublime-settings",
+		"/home/nabeel/dev/qwik/test-app/.prettierrc",
+		"/home/nabeel/dev/projects/components/navbar.aot",
+		"/home/nabeel/dev/projects/components/main.js",
+		"/home/nabeel/dev/projects/components/index.aot",
+		"/home/nabeel/dev/svelte/kit/src/routes/+layout.svelte",
+		"/home/nabeel/.config/sublime-text/Packages/LSP/LSP.sublime-settings",
+		"/home/nabeel/.config/sublime-text/Packages/User/LSP.sublime-settings",
+		"/home/nabeel/dev/svelte/kit/src/routes/test.svelte",
+		"/home/nabeel/.config/sublime-text/Packages/LSP-svelte/LSP-svelte.sublime-settings",
+		"/home/nabeel/.config/sublime-text/Packages/User/LSP-svelte.sublime-settings",
+		"/home/nabeel/dev/github/banana-ahh/index.html",
+		"/home/nabeel/dev/github/banana-ahh/styles.css",
+		"/home/nabeel/dev/next/todo/app/api/create-todo/route.js",
+		"/home/nabeel/dev/next/todo/app/new/page.js",
+		"/home/nabeel/dev/next/todo/app/page.js",
+		"/home/nabeel/dev/next/todo/actions/index.js",
+		"/home/nabeel/dev/next/todo/app/layout.js",
+		"/home/nabeel/dev/next/todo/db/schema.js",
+		"/home/nabeel/dev/next/todo/db/seed.js",
+		"/home/nabeel/dev/next/todo/db/index.js",
+		"/home/nabeel/dev/next/todo/eslint.config.mjs",
+		"/home/nabeel/dev/next/todo/node_modules/drizzle-orm/sqlite-core/table.d.ts",
+		"/home/nabeel/dev/next/todo/drizzle.config.js",
+		"/home/nabeel/dev/next/todo/.env",
+		"/home/nabeel/dev/next/todo/package.json",
+		"/home/nabeel/dev/solid/start-test/src/app.jsx",
+		"/home/nabeel/dev/solid/start-test/src/lib/queries/students.js",
+		"/home/nabeel/dev/solid/start-test/src/routes/index.jsx",
+		"/home/nabeel/.bashrc",
+		"/home/nabeel/dev/solid/start-test/src/lib/db.js",
+		"/home/nabeel/dev/solid/start-test/src/app.css",
+		"/home/nabeel/dev/solid/start-test/app.config.js",
+		"/home/nabeel/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/nabeel/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap"
+	],
+	"folder_history":
+	[
+		"/home/nabeel/dev/qwik/todo",
+		"/home/nabeel",
+		"/home/nabeel/dev/huh",
+		"/home/nabeel/dev/qwik/city",
+		"/home/nabeel/dev/react/test",
+		"/home/nabeel/dev/qwik/test-app",
+		"/home/nabeel/dev/projects/components",
+		"/home/nabeel/dev/svelte/kit",
+		"/home/nabeel/dev/github/banana-ahh",
+		"/home/nabeel/dev/next/todo",
+		"/home/nabeel/dev/next",
+		"/home/nabeel/dev/solid/start-test"
+	],
+	"last_version": 4200,
+	"last_window_id": 44,
+	"log_indexing": false,
+	"next_update_check": 1753520301,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 600.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			27.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fetch",
+						"fetchPosts"
+					],
+					[
+						"paddin",
+						"padding-block"
+					],
+					[
+						"is",
+						"is_done"
+					],
+					[
+						"use",
+						"useState"
+					],
+					[
+						"Nextre",
+						"NextResponse"
+					],
+					[
+						"reu",
+						"request"
+					],
+					[
+						"trans",
+						"transition"
+					],
+					[
+						"bg-vio",
+						"bg-violet-400"
+					],
+					[
+						"tran",
+						"transition"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"Suspense",
+						"Suspense"
+					],
+					[
+						"Todo",
+						"TodosList"
+					],
+					[
+						"fot-b",
+						"font-bold"
+					],
+					[
+						"todosTable",
+						"todosTable"
+					],
+					[
+						"too",
+						"todosTable"
+					],
+					[
+						"Student",
+						"Student"
+					],
+					[
+						"solid",
+						"@solidjs/start"
+					],
+					[
+						"create",
+						"createStore"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"UI: Customize Theme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"relload",
+						"SublimeLinter: Reload SublimeLinter and its Plugins"
+					],
+					[
+						"eslint",
+						"Preferences: SublimeLinter Settings"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"eslin",
+						"ESLint"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"forma",
+						"JsPrettier: Format Code"
+					],
+					[
+						"prettier",
+						"JsPrettier: Format Code"
+					],
+					[
+						"tog",
+						"LSP: Toggle Log Panel"
+					],
+					[
+						"toggle",
+						"LSP: Toggle Log Panel"
+					],
+					[
+						"toggle lo",
+						"LSP: Toggle Log Panel"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"prett",
+						"JsPrettier: Format Code"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"packa",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 286.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/nabeel/dev/qwik/todo/src/routes/index.tsx",
+				"/home/nabeel/dev/huh/eslint.config.js",
+				"/home/nabeel/dev/huh/index.js",
+				"/home/nabeel/dev/huh/index.html",
+				"/home/nabeel/dev/huh/.eslintrc.js",
+				"/home/nabeel/dev/qwik/city/src/routes/index.jsx",
+				"/home/nabeel/dev/qwik/city/src/global.css",
+				"/home/nabeel/dev/qwik/city/src/root.tsx",
+				"/home/nabeel/dev/qwik/city/package.json",
+				"/home/nabeel/dev/qwik/city/tsconfig.json",
+				"/home/nabeel/dev/qwik/test-app/src/app.css",
+				"/home/nabeel/dev/qwik/test-app/index.html",
+				"/home/nabeel/dev/qwik/test-app/src/app.jsx",
+				"/home/nabeel/dev/qwik/test-app/vite.config.js",
+				"/home/nabeel/dev/qwik/test-app/src/main.jsx",
+				"/home/nabeel/dev/qwik/test-app/.prettierrc",
+				"/home/nabeel/dev/projects/components/navbar.aot",
+				"/home/nabeel/dev/projects/components/index.aot",
+				"/home/nabeel/dev/projects/components/main.js",
+				"/home/nabeel/dev/svelte/kit/src/routes/+layout.svelte",
+				"/home/nabeel/dev/svelte/kit/src/routes/test.svelte",
+				"/home/nabeel/dev/github/banana-ahh/styles.css",
+				"/home/nabeel/dev/github/banana-ahh/index.html",
+				"/home/nabeel/dev/next/todo/app/api/create-todo/route.js",
+				"/home/nabeel/dev/next/todo/app/new/page.js",
+				"/home/nabeel/dev/next/todo/app/page.js",
+				"/home/nabeel/dev/next/todo/actions/index.js",
+				"/home/nabeel/dev/next/todo/app/layout.js",
+				"/home/nabeel/dev/next/todo/db/schema.js",
+				"/home/nabeel/dev/next/todo/db/seed.js",
+				"/home/nabeel/dev/next/todo/db/index.js",
+				"/home/nabeel/dev/next/todo/eslint.config.mjs",
+				"/home/nabeel/dev/next/todo/node_modules/drizzle-orm/sqlite-core/table.d.ts",
+				"/home/nabeel/dev/next/todo/drizzle.config.js",
+				"/home/nabeel/dev/next/todo/.env",
+				"/home/nabeel/dev/next/todo/package.json",
+				"/home/nabeel/dev/solid/start-test/src/app.jsx",
+				"/home/nabeel/.bashrc",
+				"/home/nabeel/dev/solid/start-test/src/lib/queries/students.js",
+				"/home/nabeel/dev/solid/start-test/src/routes/index.jsx",
+				"/home/nabeel/dev/solid/start-test/src/lib/db.js",
+				"/home/nabeel/dev/solid/start-test/src/app.css",
+				"/home/nabeel/dev/solid/start-test/app.config.js"
+			],
+			"find":
+			{
+				"height": 52.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 52.0
+			},
+			"input":
+			{
+				"height": 65.0
+			},
+			"menu_visible": true,
+			"output.LSP Log Panel":
+			{
+				"height": 286.0,
+				"history":
+				[
+				]
+			},
+			"output.SublimeLinter":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.exec":
+			{
+				"height": 286.0,
+				"history":
+				[
+				]
+			},
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 100.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"htm",
+						"index.html"
+					],
+					[
+						"css",
+						"src/global.css"
+					],
+					[
+						"vit",
+						"vite.config.js"
+					],
+					[
+						"index",
+						"actions/index.js"
+					],
+					[
+						"lay",
+						"app/layout.js"
+					],
+					[
+						"sche",
+						"db/schema.js"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"config",
+						"app.config.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 311.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fetch",
+						"fetchPosts"
+					],
+					[
+						"paddin",
+						"padding-block"
+					],
+					[
+						"is",
+						"is_done"
+					],
+					[
+						"use",
+						"useState"
+					],
+					[
+						"Nextre",
+						"NextResponse"
+					],
+					[
+						"reu",
+						"request"
+					],
+					[
+						"trans",
+						"transition"
+					],
+					[
+						"bg-vio",
+						"bg-violet-400"
+					],
+					[
+						"tran",
+						"transition"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"Suspense",
+						"Suspense"
+					],
+					[
+						"Todo",
+						"TodosList"
+					],
+					[
+						"fot-b",
+						"font-bold"
+					],
+					[
+						"todosTable",
+						"todosTable"
+					],
+					[
+						"too",
+						"todosTable"
+					],
+					[
+						"Student",
+						"Student"
+					],
+					[
+						"solid",
+						"@solidjs/start"
+					],
+					[
+						"create",
+						"createStore"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "import { component$ } from \"@builder.io/qwik\";\nexport default component$(() => {\n  return (\n    <>\n      <h1>Hi 👋</h1>\n      <div>\n        <br />\n        Happy coding.\n      </div>\n    </>\n  );\n});\n\nexpwort const head: DocumentHead = {\n  title: \"Welcome to Qwik\",\n  meta: [\n    {\n      name: \"description\",\n      content: \"Qwik site description\",\n    },\n  ],\n};\n\n",
+					"file": "/home/nabeel/dev/qwik/todo/src/routes/index.tsx",
+					"file_size": 424,
+					"file_write_time": 133979564367944602,
+					"settings":
+					{
+						"buffer_size": 363,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							62,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534790477185366"
+							},
+							"AQAAAL8AAAAAAAAA8gAAAAAAAAA0AAAAICAgICAgICBDYW4ndCB3YWl0IHRvIHNlZSB3aGF0IHlvdSBidWlsZCB3aXRoIHF3aWshCg",
+							"AQAAAAAAAAABAAAAywAAAAAAAADLAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							65,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534490256284706"
+							},
+							"AQAAAL8AAAAAAAAA8QAAAAAAAAAzAAAAICAgICAgICBDYW50IHdhaXQgdG8gc2VlIHdoYXQgeW91IGJ1aWxkIHdpdGggcXdpayEK",
+							"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							68,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031533500041314070"
+							},
+							"AQAAAL8AAAAAAAAA8AAAAAAAAAAyAAAAICAgICAgICBDYXQgd2FpdCB0byBzZWUgd2hhdCB5b3UgYnVpbGQgd2l0aCBxd2lrIQo",
+							"AQAAAAAAAAABAAAAyQAAAAAAAADJAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							71,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534484000265938"
+							},
+							"AQAAAL8AAAAAAAAA7wAAAAAAAAAxAAAAICAgICAgICBDdCB3YWl0IHRvIHNlZSB3aGF0IHlvdSBidWlsZCB3aXRoIHF3aWshCg",
+							"AQAAAAAAAAABAAAAyAAAAAAAAADIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							74,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534791953189794"
+							},
+							"AQAAAL8AAAAAAAAA8AAAAAAAAAAwAAAAICAgICAgICB0IHdhaXQgdG8gc2VlIHdoYXQgeW91IGJ1aWxkIHdpdGggcXdpayEK",
+							"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							77,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534793125193310"
+							},
+							"AQAAAL8AAAAAAAAA8QAAAAAAAAAxAAAAICAgICAgICBodCB3YWl0IHRvIHNlZSB3aGF0IHlvdSBidWlsZCB3aXRoIHF3aWshCg",
+							"AQAAAAAAAAABAAAAyAAAAAAAAADIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							80,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534794401197138"
+							},
+							"AQAAAL8AAAAAAAAA8gAAAAAAAAAyAAAAICAgICAgICBoZXQgd2FpdCB0byBzZWUgd2hhdCB5b3UgYnVpbGQgd2l0aCBxd2lrIQo",
+							"AQAAAAAAAAABAAAAyQAAAAAAAADJAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							83,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534793153193394"
+							},
+							"AQAAAL8AAAAAAAAA8wAAAAAAAAAzAAAAICAgICAgICBoZWx0IHdhaXQgdG8gc2VlIHdoYXQgeW91IGJ1aWxkIHdpdGggcXdpayEK",
+							"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							86,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534793101193238"
+							},
+							"AQAAAL8AAAAAAAAA9AAAAAAAAAA0AAAAICAgICAgICBoZWxsdCB3YWl0IHRvIHNlZSB3aGF0IHlvdSBidWlsZCB3aXRoIHF3aWshCg",
+							"AQAAAAAAAAABAAAAywAAAAAAAADLAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							92,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534095067099142"
+							},
+							"AQAAAL8AAAAAAAAAvwAAAAAAAAA1AAAAICAgICAgICBoZWxsb3Qgd2FpdCB0byBzZWUgd2hhdCB5b3UgYnVpbGQgd2l0aCBxd2lrIQo",
+							"AQAAAAAAAAABAAAAywAAAAAAAADLAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							94,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534768321118898"
+							},
+							"AQAAAL8AAAAAAAAAyAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAywAAAAAAAADLAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							97,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534490452285294"
+							},
+							"AQAAAL8AAAAAAAAAyQAAAAAAAAAJAAAAICAgICAgICAK",
+							"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							100,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534490204284550"
+							},
+							"AQAAAL8AAAAAAAAAygAAAAAAAAAKAAAAICAgICAgICBJCg",
+							"AQAAAAAAAAABAAAAyAAAAAAAAADIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							103,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534787641176858"
+							},
+							"AQAAAL8AAAAAAAAAywAAAAAAAAALAAAAICAgICAgICBJJwo",
+							"AQAAAAAAAAABAAAAyQAAAAAAAADJAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							106,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534095071099154"
+							},
+							"AQAAAL8AAAAAAAAAzAAAAAAAAAAMAAAAICAgICAgICBJJ20K",
+							"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							109,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031541214772458194"
+							},
+							"AQAAAL8AAAAAAAAAzQAAAAAAAAANAAAAICAgICAgICBJJ20gCg",
+							"AQAAAAAAAAABAAAAywAAAAAAAADLAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							112,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534800353214994"
+							},
+							"AQAAAL8AAAAAAAAAzgAAAAAAAAAOAAAAICAgICAgICBJJ20gdAo",
+							"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							115,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534789197181526"
+							},
+							"AQAAAL8AAAAAAAAAzwAAAAAAAAAPAAAAICAgICAgICBJJ20gdHIK",
+							"AQAAAAAAAAABAAAAzQAAAAAAAADNAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							118,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534483788265302"
+							},
+							"AQAAAL8AAAAAAAAA0AAAAAAAAAAQAAAAICAgICAgICBJJ20gdHJ5Cg",
+							"AQAAAAAAAAABAAAAzgAAAAAAAADOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							121,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534095071099154"
+							},
+							"AQAAAL8AAAAAAAAA0QAAAAAAAAARAAAAICAgICAgICBJJ20gdHJ5aQo",
+							"AQAAAAAAAAABAAAAzwAAAAAAAADPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							124,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534794385197090"
+							},
+							"AQAAAL8AAAAAAAAA0gAAAAAAAAASAAAAICAgICAgICBJJ20gdHJ5aW4K",
+							"AQAAAAAAAAABAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							127,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534769685122990"
+							},
+							"AQAAAL8AAAAAAAAA0wAAAAAAAAATAAAAICAgICAgICBJJ20gdHJ5aW5nCg",
+							"AQAAAAAAAAABAAAA0QAAAAAAAADRAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							130,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534787625176810"
+							},
+							"AQAAAL8AAAAAAAAA1AAAAAAAAAAUAAAAICAgICAgICBJJ20gdHJ5aW5nIAo",
+							"AQAAAAAAAAABAAAA0gAAAAAAAADSAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							133,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534765553110594"
+							},
+							"AQAAAL8AAAAAAAAA1QAAAAAAAAAVAAAAICAgICAgICBJJ20gdHJ5aW5nIHQK",
+							"AQAAAAAAAAABAAAA0wAAAAAAAADTAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							136,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534790729186122"
+							},
+							"AQAAAL8AAAAAAAAA1gAAAAAAAAAWAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvCg",
+							"AQAAAAAAAAABAAAA1AAAAAAAAADUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							139,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534765525110510"
+							},
+							"AQAAAL8AAAAAAAAA1wAAAAAAAAAXAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIAo",
+							"AQAAAAAAAAABAAAA1QAAAAAAAADVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							142,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534787629176822"
+							},
+							"AQAAAL8AAAAAAAAA2AAAAAAAAAAYAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGQK",
+							"AQAAAAAAAAABAAAA1gAAAAAAAADWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							145,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534790569185642"
+							},
+							"AQAAAL8AAAAAAAAA2QAAAAAAAAAZAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvCg",
+							"AQAAAAAAAAABAAAA1wAAAAAAAADXAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							148,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534769649122882"
+							},
+							"AQAAAL8AAAAAAAAA2gAAAAAAAAAaAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvIAo",
+							"AQAAAAAAAAABAAAA2AAAAAAAAADYAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							151,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534769701123038"
+							},
+							"AQAAAL8AAAAAAAAA2wAAAAAAAAAbAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvIG0K",
+							"AQAAAAAAAAABAAAA2QAAAAAAAADZAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							154,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534484020265998"
+							},
+							"AQAAAL8AAAAAAAAA3AAAAAAAAAAcAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvIG15Cg",
+							"AQAAAAAAAAABAAAA2gAAAAAAAADaAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							157,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534483972265854"
+							},
+							"AQAAAL8AAAAAAAAA3QAAAAAAAAAdAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvIG15IAo",
+							"AQAAAAAAAAABAAAA2wAAAAAAAADbAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							160,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534800417215186"
+							},
+							"AQAAAL8AAAAAAAAA3gAAAAAAAAAeAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvIG15IGIK",
+							"AQAAAAAAAAABAAAA3AAAAAAAAADcAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							163,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031533500069314154"
+							},
+							"AQAAAL8AAAAAAAAA3wAAAAAAAAAfAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvIG15IGJlCg",
+							"AQAAAAAAAAABAAAA3QAAAAAAAADdAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							166,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031533500065314142"
+							},
+							"AQAAAL8AAAAAAAAA4AAAAAAAAAAgAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvIG15IGJlcwo",
+							"AQAAAAAAAAABAAAA3gAAAAAAAADeAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							169,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534095087099202"
+							},
+							"AQAAAL8AAAAAAAAA4QAAAAAAAAAhAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvIG15IGJlc3QK",
+							"AQAAAAAAAAABAAAA3wAAAAAAAADfAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							172,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534490252284694"
+							},
+							"AQAAAL8AAAAAAAAA4gAAAAAAAAAiAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvIG15IGJlc3QhCg",
+							"AQAAAAAAAAABAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							175,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534794505197450"
+							},
+							"AQAAAL8AAAAAAAAA4wAAAAAAAAAjAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvIG15IGJlc3QhIQo",
+							"AQAAAAAAAAABAAAA4QAAAAAAAADhAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							178,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534768285118790"
+							},
+							"AQAAAL8AAAAAAAAA5AAAAAAAAAAkAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvIG15IGJlc3QhIRMK",
+							"AQAAAAAAAAABAAAA4gAAAAAAAADiAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							184,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534765509110462"
+							},
+							"AQAAAL8AAAAAAAAA5QAAAAAAAAAlAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvIG15IGJlc3QhIRMaCg",
+							"AQAAAAAAAAABAAAA4QAAAAAAAADhAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							187,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534790477185366"
+							},
+							"AQAAAL8AAAAAAAAA5AAAAAAAAAAmAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvIG15IGJlc3QhIXcTGgo",
+							"AQAAAAAAAAABAAAA4gAAAAAAAADiAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							192,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534073347033982"
+							},
+							"AQAAAL8AAAAAAAAAvwAAAAAAAAAlAAAAICAgICAgICBJJ20gdHJ5aW5nIHRvIGRvIG15IGJlc3QhIRMaCg",
+							"AQAAAAAAAAABAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							195,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534799297211826"
+							},
+							"AQAAAAAAAAAAAAAApgEAAAAAAACoAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwppbXBvcnQgdHlwZSB7IERvY3VtZW50SGVhZCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWstY2l0eSI7CgpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cg",
+							"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							197,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534800305214850"
+							},
+							"AQAAAAAAAAAAAAAApgEAAAAAAACpAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwppbXBvcnQgdHlwZSB7IERvY3VtZW50SGVhZCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWstY2l0eSI7CgpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							199,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534800293214814"
+							},
+							"AQAAAAAAAAAAAAAApgEAAAAAAACpAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwppbXBvcnQgdHlwZSB7IERvY3VtZW50SGVhZCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWstY2l0eSI7CgpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							201,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534073323033910"
+							},
+							"AQAAAAAAAAAAAAAApgEAAAAAAACpAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwppbXBvcnQgdHlwZSB7IERvY3VtZW50SGVhZCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWstY2l0eSI7CgpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							203,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534794393197114"
+							},
+							"AQAAAAAAAAAAAAAApgEAAAAAAACpAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwppbXBvcnQgdHlwZSB7IERvY3VtZW50SGVhZCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWstY2l0eSI7CgpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							205,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534789389182102"
+							},
+							"AQAAAAAAAAAAAAAApgEAAAAAAACpAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwppbXBvcnQgdHlwZSB7IERvY3VtZW50SGVhZCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWstY2l0eSI7CgpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							207,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534789349181982"
+							},
+							"AQAAAAAAAAAAAAAApgEAAAAAAACpAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwppbXBvcnQgdHlwZSB7IERvY3VtZW50SGVhZCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWstY2l0eSI7CgpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							212,
+							1,
+							"js_prettier",
+							{
+								"auto_format_prettier_config_path": null,
+								"save_file": true
+							},
+							"AgAAAAAAAAAAAAAApAEAAAAAAACpAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwppbXBvcnQgdHlwZSB7IERvY3VtZW50SGVhZCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWstY2l0eSI7CgpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07CgqkAQAAAAAAAKUBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							217,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534800353214994"
+							},
+							"AQAAAL8AAAAAAAAAzwAAAAAAAAAPAAAAICAgICAgICA8YnIgLz4K",
+							"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							220,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534793073193154"
+							},
+							"AQAAAL8AAAAAAAAA0AAAAAAAAAAQAAAAICAgICAgICA8YnIgL2g+Cg",
+							"AQAAAAAAAAABAAAAzQAAAAAAAADNAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							223,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534794381197078"
+							},
+							"AQAAAL8AAAAAAAAAzwAAAAAAAAARAAAAICAgICAgICA8YnIgL2hlPgo",
+							"AQAAAAAAAAABAAAAzgAAAAAAAADOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							226,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534768277118766"
+							},
+							"AQAAAL8AAAAAAAAAzgAAAAAAAAAQAAAAICAgICAgICA8YnIgL2g+Cg",
+							"AQAAAAAAAAABAAAAzQAAAAAAAADNAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							229,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534793153193394"
+							},
+							"AQAAAL8AAAAAAAAAzwAAAAAAAAAPAAAAICAgICAgICA8YnIgLz4K",
+							"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							232,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534472488231402"
+							},
+							"AQAAAL8AAAAAAAAA0AAAAAAAAAAQAAAAICAgICAgICA8YnIgLyA+Cg",
+							"AQAAAAAAAAABAAAAzQAAAAAAAADNAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							235,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031541214772458194"
+							},
+							"AQAAAL8AAAAAAAAAzwAAAAAAAAARAAAAICAgICAgICA8YnIgLyBlPgo",
+							"AQAAAAAAAAABAAAAzgAAAAAAAADOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							238,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534483804265350"
+							},
+							"AQAAAL8AAAAAAAAA0AAAAAAAAAAQAAAAICAgICAgICA8YnIgLyA+Cg",
+							"AQAAAAAAAAABAAAAzQAAAAAAAADNAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							241,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534800297214826"
+							},
+							"AQAAAL8AAAAAAAAA0QAAAAAAAAARAAAAICAgICAgICA8YnIgLyBoPgo",
+							"AQAAAAAAAAABAAAAzgAAAAAAAADOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							244,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534794381197078"
+							},
+							"AQAAAL8AAAAAAAAA0gAAAAAAAAASAAAAICAgICAgICA8YnIgLyBoZT4K",
+							"AQAAAAAAAAABAAAAzwAAAAAAAADPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							247,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534790649185882"
+							},
+							"AQAAAL8AAAAAAAAA0wAAAAAAAAATAAAAICAgICAgICA8YnIgLyBoZWw+Cg",
+							"AQAAAAAAAAABAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							250,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534787621176798"
+							},
+							"AQAAAL8AAAAAAAAA1AAAAAAAAAAUAAAAICAgICAgICA8YnIgLyBoZWxsPgo",
+							"AQAAAAAAAAABAAAA0QAAAAAAAADRAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							253,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534787541176558"
+							},
+							"AQAAAL8AAAAAAAAA0wAAAAAAAAAVAAAAICAgICAgICA8YnIgLyBoZWxsaT4K",
+							"AQAAAAAAAAABAAAA0gAAAAAAAADSAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							256,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534787617176786"
+							},
+							"AQAAAL8AAAAAAAAA1AAAAAAAAAAUAAAAICAgICAgICA8YnIgLyBoZWxsPgo",
+							"AQAAAAAAAAABAAAA0QAAAAAAAADRAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							260,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534789369182042"
+							},
+							"AQAAAAAAAAAAAAAArAEAAAAAAACuAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwppbXBvcnQgdHlwZSB7IERvY3VtZW50SGVhZCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWstY2l0eSI7CgpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvIGhlbGxvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cg",
+							"AQAAAAAAAAABAAAA0QAAAAAAAADRAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							262,
+							2,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534790569185642"
+							},
+							"AgAAAAAAAAAAAAAApwEAAAAAAACvAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwppbXBvcnQgdHlwZSB7IERvY3VtZW50SGVhZCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWstY2l0eSI7CgpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvIGhlbGxvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgq/AAAAAAAAAM4AAAAAAAAAEAAAACAgICAgICAgPGJyIC9oPgo",
+							"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							299,
+							1,
+							"js_prettier",
+							{
+								"auto_format_prettier_config_path": null,
+								"save_file": true
+							},
+							"AgAAAAAAAAAAAAAApAEAAAAAAACpAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwppbXBvcnQgdHlwZSB7IERvY3VtZW50SGVhZCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWstY2l0eSI7CgpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07CgqkAQAAAAAAAKUBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							307,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534484004265950"
+							},
+							"AQAAAC8AAAAAAAAALwAAAAAAAAA8AAAAaW1wb3J0IHR5cGUgeyBEb2N1bWVudEhlYWQgfSBmcm9tICJAYnVpbGRlci5pby9xd2lrLWNpdHkiOwoK",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							316,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534787629176822"
+							},
+							"AQAAAAAAAAAAAAAAagEAAAAAAABsAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cg",
+							"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							319,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534793069193142"
+							},
+							"AQAAAAAAAAAAAAAAagEAAAAAAABtAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							321,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031533500073314166"
+							},
+							"AQAAAAAAAAAAAAAAagEAAAAAAABtAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							323,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534791553188594"
+							},
+							"AQAAAAAAAAAAAAAAagEAAAAAAABtAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							325,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534793125193310"
+							},
+							"AQAAAAAAAAAAAAAAagEAAAAAAABtAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							327,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534810569245642"
+							},
+							"AQAAAAAAAAAAAAAAagEAAAAAAABtAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							329,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534810569245642"
+							},
+							"AQAAAAAAAAAAAAAAagEAAAAAAABtAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							331,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534791741189158"
+							},
+							"AQAAAAAAAAAAAAAAagEAAAAAAABtAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							333,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534789429182222"
+							},
+							"AQAAAAAAAAAAAAAAagEAAAAAAABtAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							335,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534791593188714"
+							},
+							"AQAAAAAAAAAAAAAAagEAAAAAAABtAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							337,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031533500065314142"
+							},
+							"AQAAAAAAAAAAAAAAagEAAAAAAABtAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							339,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534790821186398"
+							},
+							"AQAAAAAAAAAAAAAAagEAAAAAAABtAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							341,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534790285184790"
+							},
+							"AQAAAAAAAAAAAAAAagEAAAAAAABtAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							343,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534095107099262"
+							},
+							"AQAAAAAAAAAAAAAAagEAAAAAAABtAQAAaW1wb3J0IHsgY29tcG9uZW50JCB9IGZyb20gIkBidWlsZGVyLmlvL3F3aWsiOwpleHBvcnQgZGVmYXVsdCBjb21wb25lbnQkKCgpID0+IHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPGgxPkhpIPCfkYs8L2gxPgogICAgICA8ZGl2PgogICAgICAgIDxiciAvPgogICAgICAgIEhhcHB5IGNvZGluZy4KICAgICAgPC9kaXY+CiAgICA8Lz4KICApOwp9KTsKCmV4cG9ydCBjb25zdCBoZWFkOiBEb2N1bWVudEhlYWQgPSB7CiAgdGl0bGU6ICJXZWxjb21lIHRvIFF3aWsiLAogIG1ldGE6IFsKICAgIHsKICAgICAgbmFtZTogImRlc2NyaXB0aW9uIiwKICAgICAgY29udGVudDogIlF3aWsgc2l0ZSBkZXNjcmlwdGlvbiIsCiAgICB9LAogIF0sCn07Cgo",
+							"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							377,
+							1,
+							"apply_actualvim_edit",
+							{
+								"key": "8031534789193181514"
+							},
+							"AQAAAMcAAAAAAAAA7AAAAAAAAAAkAAAAZXhwb3J0IGNvbnN0IGhlYWQ6IERvY3VtZW50SGVhZCA9IHsK",
+							"AQAAAAAAAAABAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"UI: Customize Theme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"relload",
+						"SublimeLinter: Reload SublimeLinter and its Plugins"
+					],
+					[
+						"eslint",
+						"Preferences: SublimeLinter Settings"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"eslin",
+						"ESLint"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"forma",
+						"JsPrettier: Format Code"
+					],
+					[
+						"prettier",
+						"JsPrettier: Format Code"
+					],
+					[
+						"tog",
+						"LSP: Toggle Log Panel"
+					],
+					[
+						"toggle",
+						"LSP: Toggle Log Panel"
+					],
+					[
+						"toggle lo",
+						"LSP: Toggle Log Panel"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"prett",
+						"JsPrettier: Format Code"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"packa",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 286.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/nabeel/dev/qwik/todo",
+				"/home/nabeel/dev/qwik/todo/src",
+				"/home/nabeel/dev/qwik/todo/src/components",
+				"/home/nabeel/dev/qwik/todo/src/components/router-head",
+				"/home/nabeel/dev/qwik/todo/src/routes"
+			],
+			"file_history":
+			[
+				"/home/nabeel/dev/qwik/todo/src/routes/index.tsx",
+				"/home/nabeel/dev/huh/eslint.config.js",
+				"/home/nabeel/dev/huh/index.js",
+				"/home/nabeel/dev/huh/index.html",
+				"/home/nabeel/dev/huh/.eslintrc.js",
+				"/home/nabeel/dev/qwik/city/src/routes/index.jsx",
+				"/home/nabeel/dev/qwik/city/src/global.css",
+				"/home/nabeel/dev/qwik/city/src/root.tsx",
+				"/home/nabeel/dev/qwik/city/package.json",
+				"/home/nabeel/dev/qwik/city/tsconfig.json",
+				"/home/nabeel/dev/qwik/test-app/src/app.css",
+				"/home/nabeel/dev/qwik/test-app/index.html",
+				"/home/nabeel/dev/qwik/test-app/src/app.jsx",
+				"/home/nabeel/dev/qwik/test-app/vite.config.js",
+				"/home/nabeel/dev/qwik/test-app/src/main.jsx",
+				"/home/nabeel/dev/qwik/test-app/.prettierrc",
+				"/home/nabeel/dev/projects/components/navbar.aot",
+				"/home/nabeel/dev/projects/components/index.aot",
+				"/home/nabeel/dev/projects/components/main.js",
+				"/home/nabeel/dev/svelte/kit/src/routes/+layout.svelte",
+				"/home/nabeel/dev/svelte/kit/src/routes/test.svelte",
+				"/home/nabeel/dev/github/banana-ahh/styles.css",
+				"/home/nabeel/dev/github/banana-ahh/index.html",
+				"/home/nabeel/dev/next/todo/app/api/create-todo/route.js",
+				"/home/nabeel/dev/next/todo/app/new/page.js",
+				"/home/nabeel/dev/next/todo/app/page.js",
+				"/home/nabeel/dev/next/todo/actions/index.js",
+				"/home/nabeel/dev/next/todo/app/layout.js",
+				"/home/nabeel/dev/next/todo/db/schema.js",
+				"/home/nabeel/dev/next/todo/db/seed.js",
+				"/home/nabeel/dev/next/todo/db/index.js",
+				"/home/nabeel/dev/next/todo/eslint.config.mjs",
+				"/home/nabeel/dev/next/todo/node_modules/drizzle-orm/sqlite-core/table.d.ts",
+				"/home/nabeel/dev/next/todo/drizzle.config.js",
+				"/home/nabeel/dev/next/todo/.env",
+				"/home/nabeel/dev/next/todo/package.json",
+				"/home/nabeel/dev/solid/start-test/src/app.jsx",
+				"/home/nabeel/.bashrc",
+				"/home/nabeel/dev/solid/start-test/src/lib/queries/students.js",
+				"/home/nabeel/dev/solid/start-test/src/routes/index.jsx",
+				"/home/nabeel/dev/solid/start-test/src/lib/db.js",
+				"/home/nabeel/dev/solid/start-test/src/app.css",
+				"/home/nabeel/dev/solid/start-test/app.config.js"
+			],
+			"find":
+			{
+				"height": 52.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/nabeel/dev/qwik/todo"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/nabeel/dev/qwik/todo/src/routes/index.tsx",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 363,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										203,
+										203
+									]
+								],
+								"settings":
+								{
+									"actual_mode": true,
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html, text.xml"
+										},
+										{
+											"rhs_empty": true,
+											"selector": "punctuation.accessor"
+										},
+										{
+											"characters": ".\"'/@<",
+											"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+											"server": "LSP-typescript"
+										}
+									],
+									"av:mode:insert": true,
+									"av:mode:inserts": true,
+									"av_input": true,
+									"lsp_active": true,
+									"lsp_uri": "file:///home/nabeel/dev/qwik/todo/src/routes/index.tsx",
+									"show_definitions": false,
+									"syntax": "Packages/JavaScript/TSX.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 52.0
+			},
+			"input":
+			{
+				"height": 65.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.LSP Log Panel":
+			{
+				"height": 286.0,
+				"history":
+				[
+				]
+			},
+			"output.SublimeLinter":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.exec":
+			{
+				"height": 286.0,
+				"history":
+				[
+				]
+			},
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,1920,1052,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 100.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"htm",
+						"index.html"
+					],
+					[
+						"css",
+						"src/global.css"
+					],
+					[
+						"vit",
+						"vite.config.js"
+					],
+					[
+						"index",
+						"actions/index.js"
+					],
+					[
+						"lay",
+						"app/layout.js"
+					],
+					[
+						"sche",
+						"db/schema.js"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"config",
+						"app.config.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"lsp_show_inlay_hints": false
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 311.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 36,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
