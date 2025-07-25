@@ -1,4 +1,10 @@
 {
-	"telemetry": false,
-	"uid": "4780376f-0a7b-4998-8ffc-716151247198"
+  "telemetry": false,
+  "uid": "4780376f-0a7b-4998-8ffc-716151247198",
+  // "includeLanguages": {
+  //   "svelte": "html"
+  // },
+  // "syntaxProfiles": {
+  //   "svelte": "html"
+  // }
 }
