@@ -1,25 +1,58 @@
 {
 	"file_history":
 	[
+		"/opt/lampp/htdocs/web/bruh/index.php",
+		"/home/nabeel/dev/svelte/bruhpleasesettlewithsomethignforthe6othtime/index.php",
+		"/home/nabeel/dev/local/index.html",
+		"/home/nabeel/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/nabeel/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/nabeel/.bashrc",
+		"/home/nabeel/dev/next/poopup.fun/app/page.js",
+		"/home/nabeel/.bahsrc",
+		"/home/nabeel/dev/next/poopup.fun/app/layout.js",
+		"/home/nabeel/dev/next/shadcn/app/page.js",
+		"/home/nabeel/dev/next/shadcn/app/globals.css",
+		"/home/nabeel/dev/next/shadcn/app/layout.js",
+		"/home/nabeel/.config/sublime-text/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/nabeel/.config/sublime-text/Packages/User/SublimeLinter.sublime-settings",
+		"/home/nabeel/dev/nuxt/tets/app/components/Navbar.vue",
+		"/home/nabeel/dev/nuxt/tets/app/assets/css/main.css",
+		"/home/nabeel/dev/nuxt/tets/app.config.ts",
+		"/home/nabeel/dev/nuxt/tets/nuxt.config.ts",
+		"/home/nabeel/dev/nuxt/tets/app/layouts/default.vue",
+		"/home/nabeel/dev/nuxt/tets/app/pages/index.vue",
+		"/home/nabeel/dev/nuxt/tets/app/app.vue",
+		"/home/nabeel/dev/nuxt/tets/server/api/students.get.js",
+		"/home/nabeel/dev/nuxt/tets/app/pages/about.vue",
+		"/home/nabeel/dev/nuxt/tets/app/types.ts",
+		"/home/nabeel/dev/nuxt/tets/server/api/students.get.ts",
+		"/home/nabeel/.config/sublime-text/Packages/Theme - Default/Adaptive.sublime-theme",
+		"/home/nabeel/.config/sublime-text/Packages/User/Adaptive.sublime-theme",
+		"/home/nabeel/dev/next/poopup.fun/db/schema.ts",
+		"/home/nabeel/.config/sublime-text/Packages/Theme - Spaceblack/Theme/Spaceblack.sublime-theme",
+		"/home/nabeel/.config/sublime-text/Packages/User/Spaceblack.sublime-theme",
+		"/home/nabeel/dev/qwik/poopup/.env",
+		"/home/nabeel/dev/qwik/poopup/src/routes/index.tsx",
+		"/home/nabeel/dev/qwik/poopup/src/db/index.ts",
+		"/home/nabeel/dev/qwik/poopup/src/db/schema.js",
+		"/home/nabeel/dev/qwik/poopup/src/routes/plugin@auth.ts",
+		"/home/nabeel/dev/qwik/poopup/src/global.css",
+		"/home/nabeel/dev/qwik/poopup/package.json",
+		"/home/nabeel/dev/svelte/kit2/src/routes/+page.server.js",
 		"/home/nabeel/dev/svelte/kit2/src/routes/+page.svelte",
 		"/home/nabeel/.config/sublime-text/Packages/LSP/LSP.sublime-settings",
 		"/home/nabeel/.config/sublime-text/Packages/User/LSP.sublime-settings",
-		"/home/nabeel/.bashrc",
-		"/home/nabeel/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
-		"/home/nabeel/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/nabeel/.config/sublime-text/Packages/Emmet/Emmet.sublime-settings",
+		"/home/nabeel/.config/sublime-text/Packages/User/Emmet.sublime-settings",
 		"/home/nabeel/.config/sublime-text/Packages/LSP-svelte/LSP-svelte.sublime-settings",
 		"/home/nabeel/.config/sublime-text/Packages/User/LSP-svelte.sublime-settings",
 		"/home/nabeel/dev/svelte/kit2/src/app.css",
 		"/home/nabeel/dev/qwik/todo/src/routes/index.tsx",
-		"/home/nabeel/.config/sublime-text/Packages/Theme - Spaceblack/Theme/Spaceblack.sublime-theme",
-		"/home/nabeel/.config/sublime-text/Packages/User/Spaceblack.sublime-theme",
 		"/home/nabeel/.config/sublime-text/Packages/Theme - Darkmatter/Darkmatter.sublime-theme",
 		"/home/nabeel/.config/sublime-text/Packages/User/Darkmatter.sublime-theme",
 		"/home/nabeel/.config/sublime-text/Packages/User/TSX.sublime-settings",
 		"/home/nabeel/dev/huh/eslint.config.js",
 		"/home/nabeel/dev/huh/index.js",
-		"/home/nabeel/.config/sublime-text/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-		"/home/nabeel/.config/sublime-text/Packages/User/SublimeLinter.sublime-settings",
 		"/home/nabeel/dev/huh/index.html",
 		"/home/nabeel/dev/huh/.eslintrc.js",
 		"/home/nabeel/dev/qwik/city/src/routes/index.jsx",
@@ -71,6 +104,14 @@
 	],
 	"folder_history":
 	[
+		"/home/nabeel/dev/python/pygame/fun.game",
+		"/opt/lampp/htdocs/web/bruh",
+		"/home/nabeel/dev/svelte/bruhpleasesettlewithsomethignforthe6othtime",
+		"/home/nabeel/dev/local",
+		"/home/nabeel/dev/next/poopup.fun",
+		"/home/nabeel/dev/next/shadcn",
+		"/home/nabeel/dev/nuxt/tets",
+		"/home/nabeel/dev/qwik/poopup",
 		"/home/nabeel/dev/svelte/kit2",
 		"/home/nabeel/dev/qwik/todo",
 		"/home/nabeel",
@@ -86,13 +127,13 @@
 		"/home/nabeel/dev/solid/start-test"
 	],
 	"last_version": 4200,
-	"last_window_id": 51,
+	"last_window_id": 76,
 	"log_indexing": false,
-	"next_update_check": 1753520301,
+	"next_update_check": 1753769476,
 	"settings":
 	{
-		"new_window_full_screen": false,
-		"new_window_height": 0.0,
+		"new_window_full_screen": true,
+		"new_window_height": 600.0,
 		"new_window_maximized": true,
 		"new_window_position":
 		[
@@ -106,8 +147,36 @@
 				"selected_items":
 				[
 					[
+						"mins",
+						"min-h-screen"
+					],
+					[
+						"Input",
+						"Input"
+					],
+					[
+						"Button",
+						"Button"
+					],
+					[
+						"stat",
+						"statusMessage?"
+					],
+					[
+						"send",
+						"sendError"
+					],
+					[
+						"useSign",
+						"useSignIn"
+					],
+					[
+						"get",
+						"getItem"
+					],
+					[
 						"script",
-						"script (lang=\"ts\")"
+						"script"
 					],
 					[
 						"Document",
@@ -198,8 +267,60 @@
 				"selected_items":
 				[
 					[
+						"live ",
+						"Live Server: Start"
+					],
+					[
+						"ope",
+						"Live Server: Open In Browser"
+					],
+					[
+						"open",
+						"Live Server: Open In Browser"
+					],
+					[
+						"live",
+						"Live Server: Start"
+					],
+					[
+						"start",
+						"Live Server: Start"
+					],
+					[
 						"insta",
 						"Package Control: Install Package"
+					],
+					[
+						"eslint",
+						"Preferences: SublimeLinter Settings"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"theme",
+						"UI: Customize Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"custom",
+						"UI: Customize Theme"
+					],
+					[
+						" color s",
+						"UI: Select Color Scheme"
+					],
+					[
+						"forma",
+						"LSP: Format File"
 					],
 					[
 						"remove",
@@ -210,10 +331,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"theme",
-						"UI: Customize Theme"
-					],
-					[
 						"ins",
 						"Package Control: Install Package"
 					],
@@ -222,24 +339,12 @@
 						"SublimeLinter: Reload SublimeLinter and its Plugins"
 					],
 					[
-						"eslint",
-						"Preferences: SublimeLinter Settings"
-					],
-					[
 						"remove pa",
 						"Package Control: Remove Package"
 					],
 					[
 						"eslin",
 						"ESLint"
-					],
-					[
-						"color",
-						"UI: Select Color Scheme"
-					],
-					[
-						"forma",
-						"JsPrettier: Format Code"
 					],
 					[
 						"prettier",
@@ -258,16 +363,8 @@
 						"LSP: Toggle Log Panel"
 					],
 					[
-						"lis",
-						"Package Control: List Packages"
-					],
-					[
 						"prett",
 						"JsPrettier: Format Code"
-					],
-					[
-						"list",
-						"Package Control: List Packages"
 					],
 					[
 						"packa",
@@ -294,10 +391,40 @@
 			},
 			"file_history":
 			[
+				"/home/nabeel/dev/python/pygame/fun.game/main.py",
+				"/opt/lampp/htdocs/web/bruh/index.php",
+				"/home/nabeel/dev/svelte/bruhpleasesettlewithsomethignforthe6othtime/index.php",
+				"/home/nabeel/dev/local/index.html",
+				"/home/nabeel/.bahsrc",
+				"/home/nabeel/.bashrc",
+				"/home/nabeel/dev/next/poopup.fun/app/page.js",
+				"/home/nabeel/dev/next/poopup.fun/app/layout.js",
+				"/home/nabeel/dev/next/shadcn/app/page.js",
+				"/home/nabeel/dev/next/shadcn/app/globals.css",
+				"/home/nabeel/dev/next/shadcn/app/layout.js",
+				"/home/nabeel/dev/nuxt/tets/app/components/Navbar.vue",
+				"/home/nabeel/dev/nuxt/tets/app/assets/css/main.css",
+				"/home/nabeel/dev/nuxt/tets/app.config.ts",
+				"/home/nabeel/dev/nuxt/tets/nuxt.config.ts",
+				"/home/nabeel/dev/nuxt/tets/app/layouts/default.vue",
+				"/home/nabeel/dev/nuxt/tets/app/pages/index.vue",
+				"/home/nabeel/dev/nuxt/tets/app/app.vue",
+				"/home/nabeel/dev/nuxt/tets/server/api/students.get.js",
+				"/home/nabeel/dev/nuxt/tets/app/pages/about.vue",
+				"/home/nabeel/dev/nuxt/tets/app/types.ts",
+				"/home/nabeel/dev/nuxt/tets/server/api/students.get.ts",
+				"/home/nabeel/dev/next/poopup.fun/db/schema.ts",
+				"/home/nabeel/dev/qwik/poopup/.env",
+				"/home/nabeel/dev/qwik/poopup/src/routes/index.tsx",
+				"/home/nabeel/dev/qwik/poopup/src/db/index.ts",
+				"/home/nabeel/dev/qwik/poopup/src/db/schema.js",
+				"/home/nabeel/dev/qwik/poopup/src/routes/plugin@auth.ts",
+				"/home/nabeel/dev/qwik/poopup/src/global.css",
+				"/home/nabeel/dev/qwik/poopup/package.json",
+				"/home/nabeel/dev/svelte/kit2/src/routes/+page.server.js",
+				"/home/nabeel/dev/svelte/kit2/src/routes/+page.svelte",
 				"/home/nabeel/.config/sublime-text/Packages/User/Emmet.sublime-settings",
 				"/home/nabeel/.config/sublime-text/Packages/Emmet/Emmet.sublime-settings",
-				"/home/nabeel/dev/svelte/kit2/src/routes/+page.svelte",
-				"/home/nabeel/.bashrc",
 				"/home/nabeel/.config/sublime-text/Packages/User/LSP.sublime-settings",
 				"/home/nabeel/.config/sublime-text/Packages/LSP/LSP.sublime-settings",
 				"/home/nabeel/dev/svelte/kit2/src/app.css",
@@ -346,7 +473,7 @@
 			],
 			"find":
 			{
-				"height": 63.0
+				"height": 54.0
 			},
 			"find_in_files":
 			{
@@ -360,10 +487,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"include",
-					"includeLa",
-					"includeLA",
-					"files"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -382,7 +505,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 51.0
+				"height": 54.0
 			},
 			"input":
 			{
@@ -399,6 +522,13 @@
 			"output.SublimeLinter":
 			{
 				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 274.0,
 				"history":
 				[
 				]
@@ -434,7 +564,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 98.0
+				"height": 104.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -444,12 +574,56 @@
 				"selected_items":
 				[
 					[
-						"svelte",
+						"css",
+						"app/globals.css"
+					],
+					[
+						"cs",
+						"app/globals.css"
+					],
+					[
+						"nuxt",
+						"nuxt.config.ts"
+					],
+					[
+						"nux",
+						"nuxt.config.ts"
+					],
+					[
+						"nav",
+						"app/components/Navbar.vue"
+					],
+					[
+						"app",
+						"app/app.vue"
+					],
+					[
+						"api",
+						"server/api/students.get.js"
+					],
+					[
+						"che",
+						"db/schema.ts"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"sve",
 						"src/routes/+page.svelte"
 					],
 					[
-						"css",
-						"src/app.css"
+						"svelte",
+						"src/routes/+page.svelte"
 					],
 					[
 						"htm",
@@ -470,10 +644,6 @@
 					[
 						"sche",
 						"db/schema.js"
-					],
-					[
-						"packa",
-						"package.json"
 					],
 					[
 						"config",
@@ -503,14 +673,14 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 311.0,
+			"side_bar_visible": true,
+			"side_bar_width": 283.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 0.0
+		"new_window_width": 800.0
 	},
 	"windows":
 	[
@@ -520,8 +690,36 @@
 				"selected_items":
 				[
 					[
+						"mins",
+						"min-h-screen"
+					],
+					[
+						"Input",
+						"Input"
+					],
+					[
+						"Button",
+						"Button"
+					],
+					[
+						"stat",
+						"statusMessage?"
+					],
+					[
+						"send",
+						"sendError"
+					],
+					[
+						"useSign",
+						"useSignIn"
+					],
+					[
+						"get",
+						"getItem"
+					],
+					[
 						"script",
-						"script (lang=\"ts\")"
+						"script"
 					],
 					[
 						"Document",
@@ -604,125 +802,32 @@
 			"buffers":
 			[
 				{
-					"contents": "{\n\t// Automatically marks (captures) Emmet abbreviation when typing text: captured abbreviation\n\t// is highlighted with underline. Use Tab key inside captured abbreviation to expand it.\n\t// Works in limited syntaxes only, see `abbreviation_scopes` option\n\t// Possible values:\n\t// – true: enable capturing for both markup and stylesheet abbreviations\n\t// – false: completely disable capturing\n\t// – \"markup\" or \"stylesheet\": enable capturing for either markup or stylesheet abbreviations\n\t\"auto_mark\": true,\n\n\t// Preview captured abbreviations, works only if `auto_mark` is enabled.\n\t// Possible values:\n\t// – true: enable preview for both markup and stylesheet abbreviations\n\t// – false: completely disable preview\n\t// – \"markup\" or \"stylesheet\": enable previews for either markup or stylesheet abbreviations\n\t\"abbreviation_preview\": true,\n\n\t// If enabled, all abbreviations in JSX must be prefixed with `<` character.\n\t// It allows you to explicitly specify that you are typing abbreviation and\n\t// want to expand it with `Tab` key.\n\t// Disabling this option will likely break native ST `Tab` key handler like\n\t// inserting completions and indenting code\n\t// New in 2.4.4: Set prefix value as string\n\t\"jsx_prefix\": true,\n\n\t// Scope for marked abbreviation region highlighting\n\t\"marker_scope\": \"comment\",\n\n\t// Editor scope to Emmet syntax mapping\n\t\"syntax_scopes\": {\n\t\t\"html\": \"text.html - text.html source - meta.attribute-with-value.style\",\n\t\t\"xml\": \"text.xml - text.xml.xsl\",\n\t\t\"xsl\": \"text.xml.xsl\",\n\t\t\"jsx\": \"source.js.jsx | source.tsx | source.js | source.jsx\",\n\t\t\"haml\": \"source.haml\",\n\t\t\"jade\": \"text.jade | source.pyjade\",\n\t\t\"pug\": \"text.pug | source.pypug\",\n\t\t\"slim\": \"text.slim\",\n\n\t\t\"css\": \"source.css | source.postcss | meta.attribute-with-value.style.html string.quoted\",\n\t\t\"sass\": \"source.sass\",\n\t\t\"scss\": \"source.scss\",\n\t\t\"less\": \"source.less\",\n\t\t\"stylus\": \"source.stylus\",\n\t\t\"sss\": \"source.sss\"\n\t},\n\n\t// List of scopes with inline context\n\t\"inline_scopes\": [\n\t\t\"meta.attribute-with-value.style.html\"\n\t],\n\n\t// List of scope selectors where abbreviation marker should be activated,\n\t// e.g. plugin will mark text that user types as abbreviation\n\t\"abbreviation_scopes\": [\n\t\t\"text.html - text.html meta.tag - text.html meta.embedded - text.html meta.interpolation - text.html comment - text.html source\",\n\t\t\"text.xml - text.xml meta.tag - text.xml meta.embedded - text.xml meta.interpolation - text.xml comment - text.xml source\",\n\t\t\"source.sass - meta.property-value - meta.property-name - string - punctuation - comment\",\n\t\t\"(source.css | source.scss | source.less | source.postcss | source.stylus) & meta.property-list\",\n\t\t\"(source.css | source.scss | source.less | source.postcss | source.stylus) - meta.property-value - meta.property-name - string - comment\",\n\t\t\"(source.tsx | source.js | source.jsx) - comment\",\n\t\t// Inline CSS\n\t\t\"text.html meta.attribute-with-value.style (string.quoted | source.css)\"\n\t],\n\n\t// List of scopes where Emmet abbreviations should not be be captured.\n\t// If any of the following scopes matches, `abbreviation_scopes`\n\t// will be ignored\n\t\"ignore_scopes\": [],\n\n\t// Expand Emmet abbreviation with Tab key when in abbreviation marker\n\t\"tab_expand\": true,\n\n\t// Expand Emmet abbreviation with Tab key with multiple cursors in editor.\n\t// Currently, this mode is less restricted that single-cursor Tab: it doesn’t\n\t// require abbreviation to be immediately typed and expanded by user, it may\n\t// expand existing abbreviation.\n\t// As a side-effect, you may not be able to insert tab character after words\n\t// if this option is enabled\n\t\"multicursor_tab\": true,\n\n\t// Emmet syntaxes (keys of \"syntax_scopes\" dictionary) where Tab expander\n\t// is limited to known snippets only.\n\t// For example, when you type `di`, pressing Tab key will try to match default\n\t// Sublime Text snippet since `di` is neither known tag nor known Emmet snippet.\n\t// But `div` will be expanded via Emmet since it’s a known tag.\n\t// However, typing `di.sample` will be expanded via Emmet as well since it\n\t// contains special operator like `.`\n\t// Known snippets are:\n\t// * any valid HTML5 tag\n\t// * any predefined Emmet snippet\n\t// * upper-cased word (JSX, Svelte components)\n\t// * words with dash (Vue, Web Components)\n\t\"known_snippets_only\": [\"html\"],\n\n\t// Automatically insert `class` attribute when typing `.` inside open tag\n\t// and `id` attribute when typing `#`\n\t\"auto_id_class\": false,\n\n\t// Display open tag preview next to closing tag when caret is inside it\n\t// and open tag is not currently visible\n\t\"tag_preview\": false,\n\n\t// Document size limit for `tag_preview` option: display preview only if current\n\t// document size is less that given one. Setting larger value will degrade\n\t// performance of caret movement. Set value to 0 to disable limit\n\t// Future versions of Emmet plugin might work better with large documents.\n\t\"tag_preview_size_limit\": 51250,\n\n\t// The maximum file size where Emmet will capture HTML tag context for abbreviation.\n\t// Tag context is used for resolving implicit tag names in abbreviation\n\t// (e.g. `.item` should expand to `<li class=\"item\">` inside `<ul>` tag), but\n\t// requires full document scan\n\t\"context_size_limit\": 102400,\n\n\t// The maximum selection size for instant preview of Wrap with Abbreviation action.\n\t\"wrap_size_preview\": 10240,\n\n\t// Override default Toggle Comment with Emmet variation for specified syntax scopes\n\t// defined in `comment_scopes`. When enabled, if you run Toggle Comment action\n\t// without selecting any text, Emmet will try to find matching HTML tag pair\n\t// for current caret position and comment entire tag instead of current line.\n\t// If this option is disabled, you can create keyboard shortcut for\n\t// `toggle_comment` action.\n\t\"toggle_comment\": false,\n\n\t\"comment_scopes\": [\n\t\t\"text.html - source\",\n\t\t\"text.xml\",\n\t\t\"source.css\",\n\t\t\"source.scss\",\n\t\t\"source.less\"\n\t],\n\n\t// Enable closing tag commenting after expanding abbreviations, e.g.\n\t// <div class=\"foo\">\n\t// </div><!-- .foo -->\n\t\"comment\": false,\n\n\t// Outputs everything between `[` and `]` only if specified attribute name\n\t// (written in UPPERCASE) exists in element. Attribute name is replaced with\n\t// actual value. Use `\\n` to add a newline.\n\t\"comment_template\": \"\\n<!-- /[#ID][.CLASS] -->\",\n\n\t// Max size of file to convert to data:URL. Set to 0 to disable limit\n\t\"max_data_url\": 20480,\n\n\t// Output code style\n\t// Defines how self-closing tags (like `<img>` or `<br>`) and boolean attributes\n\t// (like `disabled`) will look in generated code.\n\t// Possible values are \"html\", \"xhtml\", \"xml\"\n\t\"markup_style\": \"html\",\n\n\t// Attribute value quotes, \"double\" or \"single\"\n\t\"attribute_quotes\": \"double\",\n\n\t// Enable BEM support.\n\t// When enabled, Emmet will treat class names starting with `-`` as element\n\t// and with `_` as modifier in BEM (https://en.bem.info) notation.\n\t// These class names will inherit block name from current or ancestor element.\n\t// For example, the abbreviation `ul.nav.nav_secondary>li.nav__item` can be\n\t// shortened to `ul.nav._secondary>li.-item` with this option enabled.\n\t\"bem\": false,\n\n\t// When enabled, tries to shorten generated HEX color values for CSS abbreviations.\n\t// For example, `c#0` abbreviation can be expanded either to `color: #000;`\n\t// or `color: #000000;`\n\t\"short_hex\": true,\n\n\t// Additional CSS styles to be embedded into Emmet previews and phantoms\n\t\"popup_css\": \"\",\n\n\t// Config for Emmet\n\t// See `GlobalConfig` interface for supported properties: https://github.com/emmetio/emmet/blob/master/src/config.ts\n\t// Example:\n\t// \"config\": {\n\t//  \"markup\": {\n\t//      \"snippets\": {\n\t//          \"foo\": \"foo.bar>baz\"\n\t//      },\n\t//      \"options\": {\n\t//          \"output.selfClosingStyle\": \"xhtml\"\n\t//      }\n\t//  }\n\t// }\n\t\"config\": {},\n\n\t// Unique ID editor instance, used for upcoming online Emmet config.\n\t// Please do not edit\n\t\"uid\": null,\n\n\t// Enable anonymous event tracking, used to improve Emmet experience\n\t\"telemetry\": null\n}\n",
-					"file": "/home/nabeel/.config/sublime-text/Packages/Emmet/Emmet.sublime-settings",
-					"file_size": -1,
-					"file_write_time": -1,
+					"file": "/home/nabeel/dev/python/pygame/fun.game/main.py",
 					"settings":
 					{
-						"buffer_size": 7931,
-						"line_ending": "Unix",
-						"read_only": true,
-						"scratch": true,
-						"unsaved": true
-					},
-					"undo_stack":
-					[
-					]
-				},
-				{
-					"file": "/home/nabeel/.config/sublime-text/Packages/User/Emmet.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 172,
+						"buffer_size": 0,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
 					"undo_stack":
 					[
 						[
-							5,
+							1,
 							1,
 							"insert",
 							{
-								"characters": ","
+								"characters": "main"
 							},
-							"AQAAAEUAAAAAAAAARgAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							6,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAAEYAAAAAAAAASAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							8,
-							1,
-							"",
-							null,
-							"AQAAAEgAAAAAAAAAqwAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							11,
-							1,
-							"left_delete",
-							null,
-							"AQAAAEkAAAAAAAAASQAAAAAAAAABAAAAIA",
-							"AQAAAAAAAAABAAAASgAAAAAAAABKAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							12,
-							1,
-							"left_delete",
-							null,
-							"AQAAAEgAAAAAAAAASAAAAAAAAAABAAAAIA",
-							"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							18,
-							1,
-							"left_delete",
-							null,
-							"AQAAAEcAAAAAAAAARwAAAAAAAABiAAAACSJwcmVmZXJlbmNlcyI6IHsKICAgICJzeW50YXhQcm9maWxlcyI6IHsKICAgICAgInN2ZWx0ZSI6ICJodG1sIgogICAgfQogIH0sCiAgImV4dGVuc2lvbnNQYXRoIjogIiI",
-							"AQAAAAAAAAABAAAAqQAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							20,
-							1,
-							"",
-							null,
-							"AQAAAEcAAAAAAAAAnQAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							21,
-							1,
-							"left_delete",
-							null,
-							"AQAAAJwAAAAAAAAAnAAAAAAAAAABAAAACg",
-							"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							24,
-							1,
-							"indent",
-							null,
-							"BgAAAEcAAAAAAAAASAAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAAByAAAAAAAAAHMAAAAAAAAAAAAAAHYAAAAAAAAAdwAAAAAAAAAAAAAAiwAAAAAAAACMAAAAAAAAAAAAAACfAAAAAAAAAKAAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAnAAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							32,
-							1,
-							"delete_word",
-							{
-								"forward": false
-							},
-							"AQAAAAAAAAAAAAAAAAAAAAAAAAClAAAAewoJInRlbGVtZXRyeSI6IGZhbHNlLAoJInVpZCI6ICI0NzgwMzc2Zi0wYTdiLTQ5OTgtOGZmYy03MTYxNTEyNDcxOTgiLAoJImluY2x1ZGVMYW5ndWFnZXMiOiB7CgkgICJzdmVsdGUiOiAiaHRtbCIKCX0sCgkic3ludGF4UHJvZmlsZXMiOiB7CgkgICJzdmVsdGUiOiAiaHRtbCIKCX0sCn0K",
-							"AQAAAAAAAAABAAAAAAAAAAAAAAClAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							34,
-							1,
-							"",
-							null,
-							"AQAAAAAAAAAAAAAArAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
 							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							2,
+							4,
+							"left_delete",
+							null,
+							"BAAAAAMAAAAAAAAAAwAAAAAAAAABAAAAbgIAAAAAAAAAAgAAAAAAAAABAAAAaQEAAAAAAAAAAQAAAAAAAAABAAAAYQAAAAAAAAAAAAAAAAAAAAABAAAAbQ",
+							"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				}
@@ -739,8 +844,60 @@
 				"selected_items":
 				[
 					[
+						"live ",
+						"Live Server: Start"
+					],
+					[
+						"ope",
+						"Live Server: Open In Browser"
+					],
+					[
+						"open",
+						"Live Server: Open In Browser"
+					],
+					[
+						"live",
+						"Live Server: Start"
+					],
+					[
+						"start",
+						"Live Server: Start"
+					],
+					[
 						"insta",
 						"Package Control: Install Package"
+					],
+					[
+						"eslint",
+						"Preferences: SublimeLinter Settings"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"theme",
+						"UI: Customize Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"custom",
+						"UI: Customize Theme"
+					],
+					[
+						" color s",
+						"UI: Select Color Scheme"
+					],
+					[
+						"forma",
+						"LSP: Format File"
 					],
 					[
 						"remove",
@@ -751,10 +908,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"theme",
-						"UI: Customize Theme"
-					],
-					[
 						"ins",
 						"Package Control: Install Package"
 					],
@@ -763,24 +916,12 @@
 						"SublimeLinter: Reload SublimeLinter and its Plugins"
 					],
 					[
-						"eslint",
-						"Preferences: SublimeLinter Settings"
-					],
-					[
 						"remove pa",
 						"Package Control: Remove Package"
 					],
 					[
 						"eslin",
 						"ESLint"
-					],
-					[
-						"color",
-						"UI: Select Color Scheme"
-					],
-					[
-						"forma",
-						"JsPrettier: Format Code"
 					],
 					[
 						"prettier",
@@ -799,16 +940,8 @@
 						"LSP: Toggle Log Panel"
 					],
 					[
-						"lis",
-						"Package Control: List Packages"
-					],
-					[
 						"prett",
 						"JsPrettier: Format Code"
-					],
-					[
-						"list",
-						"Package Control: List Packages"
 					],
 					[
 						"packa",
@@ -833,10 +966,45 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/home/nabeel/dev/python/pygame/fun.game"
+			],
 			"file_history":
 			[
-				"/home/nabeel/dev/svelte/kit2/src/routes/+page.svelte",
+				"/opt/lampp/htdocs/web/bruh/index.php",
+				"/home/nabeel/dev/svelte/bruhpleasesettlewithsomethignforthe6othtime/index.php",
+				"/home/nabeel/dev/local/index.html",
+				"/home/nabeel/.bahsrc",
 				"/home/nabeel/.bashrc",
+				"/home/nabeel/dev/next/poopup.fun/app/page.js",
+				"/home/nabeel/dev/next/poopup.fun/app/layout.js",
+				"/home/nabeel/dev/next/shadcn/app/page.js",
+				"/home/nabeel/dev/next/shadcn/app/globals.css",
+				"/home/nabeel/dev/next/shadcn/app/layout.js",
+				"/home/nabeel/dev/nuxt/tets/app/components/Navbar.vue",
+				"/home/nabeel/dev/nuxt/tets/app/assets/css/main.css",
+				"/home/nabeel/dev/nuxt/tets/app.config.ts",
+				"/home/nabeel/dev/nuxt/tets/nuxt.config.ts",
+				"/home/nabeel/dev/nuxt/tets/app/layouts/default.vue",
+				"/home/nabeel/dev/nuxt/tets/app/pages/index.vue",
+				"/home/nabeel/dev/nuxt/tets/app/app.vue",
+				"/home/nabeel/dev/nuxt/tets/server/api/students.get.js",
+				"/home/nabeel/dev/nuxt/tets/app/pages/about.vue",
+				"/home/nabeel/dev/nuxt/tets/app/types.ts",
+				"/home/nabeel/dev/nuxt/tets/server/api/students.get.ts",
+				"/home/nabeel/dev/next/poopup.fun/db/schema.ts",
+				"/home/nabeel/dev/qwik/poopup/.env",
+				"/home/nabeel/dev/qwik/poopup/src/routes/index.tsx",
+				"/home/nabeel/dev/qwik/poopup/src/db/index.ts",
+				"/home/nabeel/dev/qwik/poopup/src/db/schema.js",
+				"/home/nabeel/dev/qwik/poopup/src/routes/plugin@auth.ts",
+				"/home/nabeel/dev/qwik/poopup/src/global.css",
+				"/home/nabeel/dev/qwik/poopup/package.json",
+				"/home/nabeel/dev/svelte/kit2/src/routes/+page.server.js",
+				"/home/nabeel/dev/svelte/kit2/src/routes/+page.svelte",
+				"/home/nabeel/.config/sublime-text/Packages/User/Emmet.sublime-settings",
+				"/home/nabeel/.config/sublime-text/Packages/Emmet/Emmet.sublime-settings",
 				"/home/nabeel/.config/sublime-text/Packages/User/LSP.sublime-settings",
 				"/home/nabeel/.config/sublime-text/Packages/LSP/LSP.sublime-settings",
 				"/home/nabeel/dev/svelte/kit2/src/app.css",
@@ -885,7 +1053,7 @@
 			],
 			"find":
 			{
-				"height": 63.0
+				"height": 54.0
 			},
 			"find_in_files":
 			{
@@ -899,10 +1067,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"include",
-					"includeLa",
-					"includeLA",
-					"files"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -919,6 +1083,12 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/home/nabeel/dev/python/pygame/fun.game"
+				}
+			],
 			"groups":
 			[
 				{
@@ -926,69 +1096,38 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/nabeel/.config/sublime-text/Packages/Emmet/Emmet.sublime-settings",
+							"file": "/home/nabeel/dev/python/pygame/fun.game/main.py",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 7931,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3676,
-										3676
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"edit_settings_other_view_id": 62,
-									"edit_settings_view": "base",
-									"lsp_uri": "res:/Packages/Emmet/Emmet.sublime-settings",
-									"mini_diff": false,
-									"syntax": "Packages/JSON/JSON.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 1645.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"stack_multiselect": false,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"sheets":
-					[
-						{
-							"buffer": 1,
-							"file": "/home/nabeel/.config/sublime-text/Packages/User/Emmet.sublime-settings",
-							"selected": true,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 172,
-								"regions":
-								{
-								},
-								"selection":
-								[
+									"auto_complete_triggers":
 									[
-										172,
-										172
-									]
-								],
-								"settings":
-								{
-									"edit_settings_other_view_id": 61,
-									"edit_settings_view": "user",
-									"lsp_uri": "file:///home/nabeel/.config/sublime-text/Packages/User/Emmet.sublime-settings",
-									"syntax": "Packages/JSON/JSON.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+										{
+											"characters": "<",
+											"selector": "text.html, text.xml"
+										},
+										{
+											"rhs_empty": true,
+											"selector": "punctuation.accessor"
+										}
+									],
+									"auto_name": "",
+									"lsp_uri": "file:///home/nabeel/dev/python/pygame/fun.game/main.py",
+									"syntax": "Packages/Python/Python.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1003,7 +1142,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 51.0
+				"height": 54.0
 			},
 			"input":
 			{
@@ -1018,18 +1157,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -1049,6 +1181,13 @@
 			"output.SublimeLinter":
 			{
 				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 274.0,
 				"history":
 				[
 				]
@@ -1082,11 +1221,11 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,1920,1052,1920,1080,0",
+			"position": "1,1,0,0,0,0,0,800,600,1920,1080,0",
 			"project": "",
 			"replace":
 			{
-				"height": 98.0
+				"height": 104.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1096,12 +1235,56 @@
 				"selected_items":
 				[
 					[
-						"svelte",
+						"css",
+						"app/globals.css"
+					],
+					[
+						"cs",
+						"app/globals.css"
+					],
+					[
+						"nuxt",
+						"nuxt.config.ts"
+					],
+					[
+						"nux",
+						"nuxt.config.ts"
+					],
+					[
+						"nav",
+						"app/components/Navbar.vue"
+					],
+					[
+						"app",
+						"app/app.vue"
+					],
+					[
+						"api",
+						"server/api/students.get.js"
+					],
+					[
+						"che",
+						"db/schema.ts"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"sve",
 						"src/routes/+page.svelte"
 					],
 					[
-						"css",
-						"src/app.css"
+						"svelte",
+						"src/routes/+page.svelte"
 					],
 					[
 						"htm",
@@ -1122,10 +1305,6 @@
 					[
 						"sche",
 						"db/schema.js"
-					],
-					[
-						"packa",
-						"package.json"
 					],
 					[
 						"config",
@@ -1152,7 +1331,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 1,
+			"selected_group": 0,
 			"settings":
 			{
 				"lsp_show_inlay_hints": false
@@ -1160,13 +1339,13 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 311.0,
+			"side_bar_visible": true,
+			"side_bar_width": 283.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 51,
+			"window_id": 76,
 			"workspace_name": ""
 		}
 	],

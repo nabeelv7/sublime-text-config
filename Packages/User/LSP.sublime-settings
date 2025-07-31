@@ -7,5 +7,6 @@
       "selector": "source.svelte",
       "languageId": "svelte"
     }
-  }
+  },
+  "lsp_format_on_save": true,
 }
